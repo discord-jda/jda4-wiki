@@ -1,7 +1,7 @@
 # Setup Guides
 
-- [[Intellij IDEA|2)-Intellij-IDEA-Setup]] (recommended)
-- [[Eclipse|2)-Eclipse-Setup]]
-- [[Netbeans|2)-Netbeans-Setup]] 
+- [Intellij IDEA](./Intellij.md) (recommended)
+- [Eclipse](./Eclipse.md)
+- [Netbeans](./Netbeans.md)
 
-## [[Getting Started|3)-Getting-Started]]
+## [Getting Started](../using_jda/Getting_Started.md)

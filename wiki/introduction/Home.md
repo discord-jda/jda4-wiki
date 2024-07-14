@@ -83,8 +83,8 @@ Alternatively you can also join the [Unofficial Discord API Guild](https://disco
 Once you joined, you can find JDA-specific help in the `#java_jda` channel.
 
 For guides and setup help you can also take a look at the [wiki](https://github.com/DV8FromTheWorld/JDA/wiki)
-<br>Especially interesting are the [Getting Started](https://github.com/DV8FromTheWorld/JDA/wiki/3\)-Getting-Started)
-and [Setup](https://github.com/DV8FromTheWorld/JDA/wiki/2\)-Setup) Pages.
+<br>Especially interesting are the [Getting Started](../using_jda/Getting_Started.md)
+and [Setup](../setup/Setup.md) Pages.
 
 ## Contributing to JDA
 If you want to contribute to JDA, make sure to base your branch off of our **development** branch (or a feature-branch)
@@ -93,7 +93,7 @@ and create your PR into that **same** branch. **We will be rejecting any PRs bet
 It is also highly recommended to get in touch with the Devs before opening Pull Requests (either through an issue or the Discord servers mentioned above).<br>
 It is very possible that your change might already be in development or you missed something.
 
-More information can be found at the wiki page [Contributing](https://github.com/DV8FromTheWorld/JDA/wiki/5\)-Contributing)
+More information can be found at the wiki page [Contributing](../contributing/Contributing.md)
 
 ## Dependencies:
 This project requires **Java 8**.<br>

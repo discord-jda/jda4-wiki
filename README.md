@@ -7,39 +7,39 @@ This repository is for archival purposes.
 
 ## Introduction
 
-- [[Home]]
-- [[Using Events|1)-Events]]
-- [[List of Events|8)-List-of-Events]]
-- [[FAQ|10)-FAQ]]
-- [[Migration V3 -> V4|0)-Migrating-to-V4]]
+- [Home](wiki/introduction/Home.md)
+- [Using Events](wiki/introduction/Events.md)
+- [List of Events](wiki/introduction/List_of_Events.md)
+- [FAQ](wiki/introduction/FAQ.md)
+- [Migration V3 -> V4](wiki/introduction/Migration-to-v4.md)
 
 ### [[Setup|2)-Setup]]
 
-- [[Eclipse Setup|2)-Eclipse-Setup]]
-- [[Intellij IDEA Setup|2)-Intellij-IDEA-Setup]]
-- [[Netbeans Setup|2)-Netbeans-Setup]]
-- [[Logging (SLF4J)|Logging-Setup]]
+- [Eclipse Setup](wiki/setup/Eclipse.md)
+- [Intellij IDEA Setup](wiki/setup/Intellij.md)
+- [Netbeans Setup](wiki/setup/Netbeans.md)
+- [Logging (SLF4J)](wiki/setup/Logging_Setup.md)
 
 ### Using JDA
 
-- [[Getting Started|3)-Getting-Started]]
-- [[Making a Music Bot|4)-Making-a-Music-Bot]]
-- [[Using RestAction|7)-Using-RestAction]]
-    - [[Asynchronous|7)-Using-RestAction#using-queue]]
-    - [[Blocking|7)-Using-RestAction#using-complete]]
-    - [[Cancellable|7)-Using-RestAction#using-submit]]
-    - [[Planning|7)-Using-RestAction#using-completeafter-submitafter-and-queueafter]]
-- [[Interactions|Interactions]]
-    - [[Slash Commands|Interactions#slash-commands]]
-    - [[Buttons|Interactions#buttons]]
-- [[Paginating Entities|7)-Paginating-Entities]]
-- [[Gateway Intents and Member Cache Policy|Gateway-Intents-and-Member-Cache-Policy]]
+- [Getting Started](wiki/using_jda/Getting_Started.md)
+- [Making a Music Bot](wiki/using_jda/Making_a_Music_Bot.md)
+- [Using RestAction](wiki/using_jda/Using_RestAction.md)
+    - [Asynchronous](wiki/using_jda/Using_RestAction.md#using-queue)
+    - [Blocking](wiki/using_jda/Using_RestAction.md#using-complete)
+    - [Cancellable](wiki/using_jda/Using_RestAction.md#using-submit)
+    - [Planning](wiki/using_jda/Using_RestAction.md#using-completeafter-submitafter-and-queueafter)
+- [Interactions](wiki/using_jda/Interactions.md)
+    - [Slash Commands](wiki/using_jda/Interactions.md#slash-commands)
+    - [Buttons](wiki/using_jda/Interactions.md#buttons)
+- [Paginating Entities](wiki/using_jda/Paginating_Entities.md)
+- [Gateway Intents and Member Cache Policy](wiki/using_jda/Gateway_Inents_and_Member_Cache_Policy.md)
 - [Webhooks](https://github.com/MinnDevelopment/discord-webhooks)
-- [[Managers and Moderation|12)-Separation-of-Concerns]]
-- [[Troubleshooting|19)-Troubleshooting]]
+- [Managers and Moderation](wiki/using_jda/Separation_of_Concerns.md)
+- [Troubleshooting](wiki/using_jda/Troubleshooting.md)
 
 ## Contributing
 
-- [[Contributing|5)-Contributing]]
-- [[Structure Guide|6)-JDA-Structure-Guide]]
-- [[Repository Structure|11)-Repository-Structure]]
+- [Contributing](wiki/contributing/Contributing.md)
+- [Structure Guide](wiki/contributing/JDA_Structure_Guide.md)
+- [Repository Structure](wiki/contributing/Repository_Structure.md)
