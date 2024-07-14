@@ -13,7 +13,7 @@ This repository is for archival purposes.
 - [FAQ](wiki/introduction/FAQ.md)
 - [Migration V3 -> V4](wiki/introduction/Migration-to-v4.md)
 
-### [[Setup|2)-Setup]]
+### [Setup](wiki/setup/Setup.md)
 
 - [Eclipse Setup](wiki/setup/Eclipse.md)
 - [Intellij IDEA Setup](wiki/setup/Intellij.md)
